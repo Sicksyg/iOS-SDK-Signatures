@@ -14,3 +14,5 @@ https://github.com/TrackerControl/platformcontrol-android-ios-analysis/blob/main
 
 # License
 This dataset is lisenced under Creative [Commons Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+This is a part of the ERC funded reseach project [Datafied Living at The University of Copenhagen](https://datafiedliving.ku.dk/)
