@@ -1,5 +1,11 @@
 # iOS-SDK-Signatures
-A small library containing SDK signatures for use in iOS static and dynamic analysis.
+A small database containing SDK signatures for use in iOS static and dynamic analysis.
+Currently the database only contains the SDK signatures and not the domain signatures used in dynamic analysis.
+
+# ToDo
+- [x] Update list with new entries (continuously)
+- [ ] Add domain signatures to SDKs
+- [ ] Add comments to signatures
 
 # Dataset
 The original dataset was forked from the PlatformControl https://github.com/TrackerControl/PlatformControl:
