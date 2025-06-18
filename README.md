@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bbb27479-8011-4936-acb9-3c1ee9843460)# iOS-SDK-Signatures
+# iOS-SDK-Signatures
 A small database containing SDK signatures for use in iOS static and dynamic analysis.
 Currently the database only contains the SDK signatures and not the domain signatures used in dynamic analysis.
 
