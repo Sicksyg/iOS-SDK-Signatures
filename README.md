@@ -19,3 +19,4 @@ This dataset is lisenced under Creative [Commons Attribution 4.0 International C
 This repository is made possible by the ERC funded reseach project [Datafied Living at The University of Copenhagen](https://datafiedliving.ku.dk/)
 
 ![image](https://github.com/user-attachments/assets/fe732ac6-0468-4421-a7a6-62e7b24c1633)
+![image](https://cdn.jsdelivr.net/gh/ku-kom/bootstrap@ad625490ca3061d33a2f96528e00601e227f5e45/docs/images/branding/hum.svg)
